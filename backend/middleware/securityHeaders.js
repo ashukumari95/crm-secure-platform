@@ -1,0 +1,1 @@
+// securityHeaders.js placeholder

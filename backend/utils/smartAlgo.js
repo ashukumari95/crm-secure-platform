@@ -1,0 +1,1 @@
+// smartAlgo.js placeholder
