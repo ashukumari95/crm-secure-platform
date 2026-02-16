@@ -16,7 +16,7 @@ const app = express();
 
 // 1. CORS
 app.use(cors({
-  origin: ["https://crm-secure-platform.vercel.app/", "http://127.0.0.1:5173"], 
+  origin: ["https://crm-secure-platform.vercel.app/"], 
   credentials: true,
   methods: ["GET", "POST", "PUT", "DELETE"],
   allowedHeaders: ["Content-Type", "Authorization"]
