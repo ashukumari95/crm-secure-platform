@@ -69,8 +69,8 @@ Whether you are assigning tasks, tracking project budgets, or sending automated 
 
 ## 🚀 Live Demo
 
-- **Frontend:** [https://growth-crm.vercel.app](https://growth-crm.vercel.app) *(Replace with your Vercel Link)*
-- **Backend API:** [https://growth-api.onrender.com](https://growth-api.onrender.com) *(Replace with your Render Link)*
+- **Frontend:** [https://crm-secure-platform.vercel.app](https://crm-secure-platform.vercel.app)
+- **Backend API:** [https://growth-service-dashboard.onrender.com](https://growth-service-dashboard.onrender.com)
 
 > **Test Credentials:**
 > - **Admin:** `admin@crm.com` / `123`
@@ -87,7 +87,7 @@ Whether you are assigning tasks, tracking project budgets, or sending automated 
 ![Edit Project](https://via.placeholder.com/800x400?text=Upload+Edit+Project+Screenshot+Here)
 
 ### 3. Role-Based Login Portal
-![Login](https://via.placeholder.com/800x400?text=Upload+Login+Page+Screenshot+Here)
+![Login](https://crm-secure-platform.vercel.app/800x400?text=Upload+Login+Page+Screenshot+Here)
 
 ---
 
