@@ -73,8 +73,8 @@ Whether you are assigning tasks, tracking project budgets, or sending automated 
 - **Backend API:** [https://growth-service-dashboard.onrender.com](https://growth-service-dashboard.onrender.com)
 
 > **Test Credentials:**
-> - **Admin:** `admin@crm.com` / `123`
-> - **Employee:** `staff@crm.com` / `123`
+> - **Admin:** `admin@ashu.com` / `ashu123`
+> - **Employee:** `emp@rahul.com` / `rahul123`
 
 ---
 
